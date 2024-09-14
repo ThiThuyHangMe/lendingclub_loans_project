@@ -1,5 +1,5 @@
 # lendingclub_loans_project
-## Power BI Dashboard: [HERE](https://app.powerbi.com/view?r=eyJrIjoiNjk4MDM3NjAtN2VhOS00NTc2LWI1OTgtY2Q5ZDVkZGE5Y2JjIiwidCI6IjY4ODIzZjc1LTlkNzItNDBiYy05OGY0LTA1NDczZmM5OWM1YiJ9)
+***Power BI Dashboard***: [HERE](https://app.powerbi.com/view?r=eyJrIjoiNjk4MDM3NjAtN2VhOS00NTc2LWI1OTgtY2Q5ZDVkZGE5Y2JjIiwidCI6IjY4ODIzZjc1LTlkNzItNDBiYy05OGY0LTA1NDczZmM5OWM1YiJ9)
 ## Overview
 - This project features an interactive dashboard that visualises Lending Club's data, providing insights into member demographics, loan purposes, and financial behaviors. The dashboard is designed to be user-friendly and helps stakeholders analyse key data points like average loan amount, interest rates, and member employment lengths.
 - Dashboard overview:
