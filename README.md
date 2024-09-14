@@ -3,7 +3,7 @@
 - This project features an interactive dashboard that visualises Lending Club's data, providing insights into member demographics, loan purposes, and financial behaviors. The dashboard is designed to be user-friendly and helps stakeholders analyse key data points like average loan amount, interest rates, and member employment lengths.
 ## Data Sources
 - loan data: the primary dataset used for this analysis is the "lending_club_loans.csv" file, containing detailed information about the member and their loan status
-
+  
 ## Tools
 - Excel - Data Cleaning
 - My SQL - Data Analysis
